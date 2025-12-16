@@ -14,4 +14,4 @@ def home(request):
     return JsonResponse(response)
     # return HttpResponse(response['name'])
 def test(request):
-    return HttpResponse("My Test Sitha")
+    return HttpResponse("My Test Thom")
